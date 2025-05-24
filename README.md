@@ -67,3 +67,8 @@ Special thanks to the following projects and libraries:
 ---
 
 **Important Note**: This site should not be used in school or workplace environments where it is disallowed. By using this site, you agree that you are in a location that allows its usage, and any discretion is up to the user.
+
+```
+https://exploit-master122.github.io/Kahooteasy/index.html
+```
+

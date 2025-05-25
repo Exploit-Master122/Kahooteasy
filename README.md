@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <a href="https://github.com/IamChristianS/v2">ORIGINAL GITHUB REPO</p>
+    <a href="https://github.com/IamChristianS/v2">ORIGINAL GITHUB REPO v2</p>
 </h1>
 
 <p align="center">
@@ -22,6 +22,9 @@
 -   Tab Cloaking
 -   Panic Button
 -   Open-Source
+-   About:blank cloak
+-   Iframe Browsing
+-   Free Ultraviolet proxy.
 
 # Screenshots 📷
 
@@ -48,12 +51,10 @@
 
 # Contributing
 
-Contributions are welcome! If you have any bug reports, feature requests, or suggestions, please open an issue or submit a pull request. My e-mail is also available at [project.hub.games@gmail.com](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=project.hub.games@gmail.com&tf=1).
+Contributions are welcome! If you have any bug reports, feature requests, or suggestions, please open an issue or submit a pull request.
 You can also submit a [contact](https://forms.gle/xeeYJHio4kYfChm18) or [game request](https://forms.gle/3E58KvuY45vdWi6n9) form through their respective links.
 
 # Acknowledgements
-
-Each game I curate can be found and seen in the [assets repo available here](https://github.com/IamChristianS/assets).
 
 Special thanks to the following projects and libraries:
 
@@ -61,12 +62,12 @@ Special thanks to the following projects and libraries:
 -   [WAFlash](https://github.com/vidkidz/waflash) - Secondary Flash Emulator
 -   [IodineGBA](https://github.com/taisel/IodineGBA) - Game Boy Advance Emulator
 -   [Desmond](https://github.com/js-emulators/desmond) - Nintendo DS Emulator
--   [Animate.CSS](https://github.com/animate-css/animate.css) - Animation Library
 -   [3kh0](https://github.com/3kh0) - Game Ports & Inspiration (amazing person btw)
-
+-   [IamchristianS](https://github.com/IamChristianS) - ***Thank you for the source code!!***
+-   [Titanium Network](https://docs.titaniumnetwork.org/proxies/ultraviolet/) - Credits for Ultraviolet proxy server setup/
 ---
 
-**Important Note**: This site should not be used in school or workplace environments where it is disallowed. By using this site, you agree that you are in a location that allows its usage, and any discretion is up to the user.
+***IMPORTANT:***: This site is created by [IamchristianS](https://github.com/IamChristianS) and I was the one who tweaked the code a ***tiny bit*** and deployed it through an unblocked link that has not been patched yet. If you use this website,then we do not care if you get in trouble.By using it,you are not to blame us if the school punishes you.
 
 ```
 https://exploit-master122.github.io/Kahooteasy/index.html
